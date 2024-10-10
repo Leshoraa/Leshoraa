@@ -4,16 +4,16 @@
   <strong>An Android Developer with Passion</strong> 📱
 </p>
 
-<p align="center">
-  Mobile Application Development using Android and Java
+<p>
+  <small>📱 Mobile Application Development using Android and Java</small>
 </p>
 
-<p align="center">
-  <strong>Currently learning:</strong> Kotlin and Android Architecture
+<p>
+  <small>📚 <strong>Currently learning:</strong> Kotlin and Android Architecture</small>
 </p>
 
-<p align="center">
-  <strong>Looking for collaboration on Android projects</strong>
+<p>
+  <small>🤝 <strong>Looking for collaboration on Android projects</strong></small>
 </p>
 
 ## 💻 Languages and Tools
