@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <p align="center">
-  <strong>Seorang Android Developer yang Passionate</strong> 📱
+  <strong>An Android Developer with Passion</strong> 📱
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>Mencari kolaborasi di Android project</strong>
+  <strong>Looking for collaboration on Android projects</strong>
 </p>
 
 ## 💻 Languages and Tools
