@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Php-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Php"/>
+  <img src="https://img.shields.io/badge/Xml-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Xml"/>
 </p>
 
 ## 📊 Most Used Languages
