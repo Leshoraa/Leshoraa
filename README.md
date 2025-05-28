@@ -45,6 +45,10 @@
 
 <br>
 
+---
+
+<br>
+
 ### 🤝 Let's Connect
 I'm always open to new projects, collaborations, and discussions!  
 📩 Reach me at: [leshoraa@gmail.com](mailto:leshoraa@gmail.com)
