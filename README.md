@@ -37,15 +37,11 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p>
 
-<br>
-
 ### 📊 GitHub Stats
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leshoraa&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
   <br>
 </p>
-
-<br>
 
 ### 🤝 Let's Connect
 I'm always open to new projects, collaborations, and discussions!  
