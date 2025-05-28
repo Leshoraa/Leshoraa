@@ -1,19 +1,19 @@
 <h2 align="center">Hi there 👋, I'm Rendra Muktia Affan</h2>
 <p align="center">
-  Android Developer • Backend Learner • Tech Explorer  
+  💻 Android Developer • 🌐 Backend Learner • 🚀 Tech Explorer  
   <br><br>
-  📍 Indonesia 🇮🇩 &nbsp; | &nbsp; 📧 leshoraa@gmail.com
+  📍 Indonesia 🇮🇩 &nbsp; | &nbsp; 📬 leshoraa@gmail.com
 </p>
 
 ### 💼 About Me
-- Android app developer using Java & Firebase
-- Familiar with Python, PHP, Flutter, and MySQL
-- Currently learning:
-  - Java fundamentals & Android Architecture (MVVM, Jetpack)
-  - Backend with PHP & MySQL
-  - Python scripting & automation
+- 📱 Android developer with a focus on Java & Firebase  
+- 🧠 Always curious and passionate about learning and building  
+- 🛠 Currently deepening knowledge in:  
+  - Java fundamentals & Android Architecture (MVVM, Jetpack)  
+  - PHP & MySQL for backend development  
+  - Python scripting & automation  
 
-### 🛠 Tech Stack
+### 🧰 Technologies I Work With
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
@@ -28,9 +28,9 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://camo.githubusercontent.com/35cc2a2c51a48c50409465cfd216422b8caec98461b06afa2cd588814116f22b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4c6573686f7261612673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leshoraa&show_icons=true&theme=tokyonight" alt="Rendra's GitHub Stats"/>
 </p>
 
 ### 🤝 Let's Connect
-Looking for collaboration or just want to say hi?  
-📧 [leshoraa@gmail.com](mailto:leshoraa@gmail.com)
+Feel free to reach out if you're looking for a collaborator!<br>
+📩 Reach me at: [leshoraa@gmail.com](mailto:leshoraa@gmail.com)
