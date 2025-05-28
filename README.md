@@ -1,19 +1,20 @@
-<h2 align="center">Hi there 👋, I'm Rendra Muktia Affan</h2>
+<h2 align="center">Hello! 👋 I'm Leshoraa</h2>
+
 <p align="center">
-  💻 Android Developer • 🌐 Backend Learner • 🚀 Tech Explorer  
+  💻 Passionate Android Developer • 🌐 Backend Enthusiast • 🚀 Technology Explorer  
   <br><br>
   📍 Indonesia 🇮🇩 &nbsp; | &nbsp; 📬 leshoraa@gmail.com
 </p>
 
 ### 💼 About Me
-- 📱 Android developer with a focus on Java & Firebase
-- 📚 Continuously improving and expanding technical knowledge
-- 🛠 Currently focusing on:
-  - Java fundamentals & Android Architecture (MVVM, Jetpack)
-  - PHP & MySQL for backend development
-  - Python scripting & automation
+- 📱 Android developer specializing in Java & Firebase
+- 📚 Always learning and growing in the tech industry
+- 🛠 Currently focused on:
+  - Building scalable Android apps (MVVM, Jetpack)
+  - Backend development with PHP & MySQL
+  - Automating tasks with Python
 
-### 🧰 Technologies I Work With
+### 🛠 Tools
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
@@ -28,11 +29,11 @@
 
 ### 📊 GitHub Stats
 <p>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leshoraa&layout=compact&theme=tokyonight)
+  ![Recently Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leshoraa&layout=compact&theme=tokyonight)
   <br>
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leshoraa&show_icons=true&theme=tokyonight)
 </p>
 
 ### 🤝 Let's Connect
-Feel free to reach out if you're looking for a collaborator!<br>
+I'm always open to new projects, collaborations, and discussions!  
 📩 Reach me at: [leshoraa@gmail.com](mailto:leshoraa@gmail.com)
