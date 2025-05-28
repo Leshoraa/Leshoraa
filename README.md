@@ -24,7 +24,7 @@
 
 <br>
 
-## 💻 Languages and Tools
+### 💻 Languages and Tools
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
@@ -38,6 +38,7 @@
 </p>
 
 <br>
+
 ### 📊 GitHub Stats
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leshoraa&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
@@ -45,6 +46,7 @@
 </p>
 
 <br>
+
 ### 🤝 Let's Connect
 I'm always open to new projects, collaborations, and discussions!  
 📩 Reach me at: [leshoraa@gmail.com](mailto:leshoraa@gmail.com)
