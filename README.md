@@ -3,6 +3,7 @@
 <p align="center">
   <strong>An Android Developer with Passion</strong> 📱
 </p>
+
 <br>
 <p>
   <small>I'm Rendra Muktia Affan. A software engineer from Indonesia.</small>
@@ -17,6 +18,7 @@
   <small>🤝 <strong>Looking for collaboration on Android projects</strong></small>
 </p>
 <br>
+
 ## 💻 Languages and Tools
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -30,12 +32,14 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p>
 <br>
+
 ### 📊 GitHub Stats
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leshoraa&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
   <br>
 </p>
 <br>
+
 ### 🤝 Let's Connect
 I'm always open to new projects, collaborations, and discussions!  
 📩 Reach me at: [leshoraa@gmail.com](mailto:leshoraa@gmail.com)
