@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <small>📚 <strong>Currently learning:</strong> Kotlin and Android Architecture</small>
+  <small>📚 <strong>Currently learning:</strong> Java and Android Architecture</small>
 </p>
 
 <p>
