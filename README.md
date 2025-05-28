@@ -7,7 +7,7 @@
 
 ### 💼 About Me
 - 📱 Android developer with a focus on Java & Firebase
-- 📚 Continuously improving and expanding technical skillset
+- 📚 Continuously improving and expanding technical knowledge
 - 🛠 Currently focusing on:
   - Java fundamentals & Android Architecture (MVVM, Jetpack)
   - PHP & MySQL for backend development
@@ -28,8 +28,9 @@
 
 ### 📊 GitHub Stats
 <p>
-![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&size_weight=1&count_weight=1&theme=tokyonight)
-![Last Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&langs_count=1&hide=python,java,html&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leshoraa&layout=compact&theme=tokyonight)
+  <br>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leshoraa&show_icons=true&theme=tokyonight)
 </p>
 
 ### 🤝 Let's Connect
