@@ -31,7 +31,6 @@
 <p>
   ![Recently Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leshoraa&layout=compact&theme=tokyonight)
   <br>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leshoraa&show_icons=true&theme=tokyonight)
 </p>
 
 ### 🤝 Let's Connect
