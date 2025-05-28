@@ -5,6 +5,8 @@
 </p>
 
 <br>
+---
+<br>
 <p>
   <small>I'm Rendra Muktia Affan. A software engineer from Indonesia.</small>
 </p>
