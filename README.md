@@ -1,20 +1,22 @@
-<h2 align="center">Hello! 👋 I'm Rendra Muktia Affan</h2>
+<h1 align="center">Hey there 👋</h1>
 
 <p align="center">
-  💻 Passionate Android Developer • 🌐 Backend Enthusiast • 🚀 Technology Explorer  
-  <br><br>
-  📍 Indonesia 🇮🇩 &nbsp; | &nbsp; 📬 leshoraa@gmail.com
+  <strong>An Android Developer with Passion</strong> 📱
+</p>
+<p>
+  <small>I'm Rendra Muktia Affan. A software engineer from Indonesia.</small>
+</p>
+<p>
+  <small>📱 Mobile Application Development using Android and Java</small>
+</p>
+<p>
+  <small>📚 <strong>Currently learning:</strong> Java and Android Architecture</small>
+</p>
+<p>
+  <small>🤝 <strong>Looking for collaboration on Android projects</strong></small>
 </p>
 
-### 💼 About Me
-- 📱 Android developer specializing in Java & Firebase
-- 📚 Always learning and growing in the tech industry
-- 🛠 Currently focused on:
-  - Building scalable Android apps (MVVM, Jetpack)
-  - Backend development with PHP & MySQL
-  - Automating tasks with Python
-
-### 🛠 Tools
+## 💻 Languages and Tools
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
