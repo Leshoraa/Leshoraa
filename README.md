@@ -34,12 +34,6 @@
   <img src="https://img.shields.io/badge/Xml-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Xml"/>
 </p>
 
-## Achievements
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
 ## 📊 Most Used Languages
 
 <p align="center">
