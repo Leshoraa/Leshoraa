@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋</h1>
 
-<p align="center">
+<p align="left">
   <small>I'm <strong>Rendra Muktia Affan</strong>, a passionate Software Engineer from Indonesia 🇮🇩</small><br>
   <small>📱 Specializing in Android app development using Java and Firebase</small><br>
   <small>🛠️ Also familiar with Python, PHP, Flutter, and MySQL for building versatile solutions</small><br>
