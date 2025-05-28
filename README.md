@@ -1,24 +1,13 @@
 <h1 align="center">Hey there 👋</h1>
 
 <p align="center">
-  <strong>An Android Developer with Passion</strong> 📱
+  <small>I'm <strong>Rendra Muktia Affan</strong>, a passionate Software Engineer from Indonesia 🇮🇩</small><br>
+  <small>📱 Specializing in Android app development using Java and Firebase</small><br>
+  <small>🛠️ Also familiar with Python, PHP, Flutter, and MySQL for building versatile solutions</small><br>
+  <small>📚 <strong>Currently expanding my skills in:</strong> Java fundamentals, Python scripting, PHP for web backend, and Android Architecture (MVVM, Jetpack)</small><br>
+  <small>🤝 <strong>Open to collaborate</strong> on impactful Android and cross-platform projects</small>
 </p>
 
-<p>
-  <small>I'm Rendra Muktia Affan. A software engineer from Indonesia.</small>
-</p>
-
-<p>
-  <small>📱 Mobile Application Development using Android and Java</small>
-</p>
-
-<p>
-  <small>📚 <strong>Currently learning:</strong> Java and Android Architecture</small>
-</p>
-
-<p>
-  <small>🤝 <strong>Looking for collaboration on Android projects</strong></small>
-</p>
 
 ## 💻 Languages and Tools
 
