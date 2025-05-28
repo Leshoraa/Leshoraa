@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats
 <p>
-  ![Recently Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leshoraa&layout=compact&theme=tokyonight)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leshoraa&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
   <br>
 </p>
 
