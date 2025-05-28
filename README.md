@@ -8,10 +8,6 @@
 <p>
   <small>I'm Rendra Muktia Affan. A software engineer from Indonesia.</small>
 </p>
-
-
----
-<br>
 <p>
   <small>📱 Mobile Application Development using Android and Java</small>
 </p>
@@ -21,6 +17,11 @@
 <p>
   <small>🤝 <strong>Looking for collaboration on Android projects</strong></small>
 </p>
+
+<br>
+
+---
+
 <br>
 
 ## 💻 Languages and Tools
