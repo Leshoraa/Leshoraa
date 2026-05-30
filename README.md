@@ -39,7 +39,7 @@ I am a software developer from Indonesia, currently pursuing a degree in Informa
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leshoraa&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&hide_border=true&bg_color=00000000" alt="Top Languages" width="48%" />
+  <img src="https://media.giphy.com/media/132bnY1Q2sA07K/giphy.gif" alt="Pixel Art Animation" width="350" />
 </div>
 
 ---
