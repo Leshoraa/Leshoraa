@@ -30,15 +30,15 @@ I am a software developer from Indonesia, currently pursuing a degree in Informa
 ---
 
 ### GitHub Analytics
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leshoraa&show_icons=false&theme=transparent&title_color=ffffff&text_color=9f9f9f&bg_color=00000000&hide_border=true&v=2" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leshoraa&theme=transparent&title_color=ffffff&text_color=9f9f9f&background=00000000&hide_border=true" width="48%" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh1aWxycTU0Z3BkdGVuenp5eGpvMHltcnZwMmV3djRtc3lobzkwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Pixel Art Animation" width="100%" />
+<div align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh1aWxycTU0Z3BkdGVuenp5eGpvMHltcnZwMmV3djRtc3lobzkwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Pixel Art Animation" width="70%" />
 </div>
 
 ---
