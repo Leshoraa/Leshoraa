@@ -1,54 +1,38 @@
-<h1 align="center">Hey there 👋</h1>
-
-<p align="center">
-  <strong>An Android Developer with Passion</strong> 📱
-</p>
-
-<br>
-<p>
-  <small>I'm Rendra Muktia Affan. A software engineer from Indonesia.</small>
-</p>
-<p>
-  <small>📱 Mobile Application Development using Android and Java</small>
-</p>
-<p>
-  <small>📚 <strong>Currently learning:</strong> Java and Android Architecture</small>
-</p>
-<p>
-  <small>🤝 <strong>Looking for collaboration on Android projects</strong></small>
-</p>
-
-<br>
+<h1 align="center">Rendra Muktia Affan</h1>
+<p align="center">Software Engineer | Informatics Student at Universitas Amikom Yogyakarta</p>
 
 ---
 
-<br>
+### Profile
+I am a Software Engineer based in Indonesia, specializing in Full Stack Web Development, Android Architecture, and Systems Programming. My approach to software engineering emphasizes clean architecture, robust security mechanisms, and minimalist UI/UX design principles. Currently, my research and development focus lies in local Large Language Model (LLM) integrations and optimizing performance within Linux environments.
 
-### 💻 Languages and Tools
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XML-00599C?style=flat-square&logo=xml&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-</p>
+### Technical Competencies
+- **Languages:** Java, C++, JavaScript/TypeScript, Python, PHP
+- **Frameworks & Libraries:** Android (Native & React Native), React, Vite
+- **Backend & Infrastructure:** Firebase (Serverless), MySQL
+- **Environment & Systems:** Arch Linux (Hyprland, Zen Kernel), Git, Custom Pango Markup
 
-### 📊 GitHub Stats
-<p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leshoraa&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
-  <br>
-</p>
+### Selected Works
 
-<br>
+*   **HyprFire** 
+    An end-to-end encrypted terminal chat application engineered with Java and Firebase. Built with a serverless architecture utilizing secure fetch-and-delete message mechanisms.
+*   **HyprVault** 
+    A custom Java-based cryptographic utility implementing low-level bit-slicing and logic-gate-based encryption algorithms for secure data handling.
+*   **Hyprwork** 
+    An AI-driven dashboard builder utilizing React and Vite. It programmatically generates dynamic, production-ready UI layouts based on user prompts and JSON configurations.
+*   **HyprPixel** 
+    A web-based pixel art camera application leveraging React and the HTML5 Canvas API to perform complex, real-time color processing and manipulation.
+*   **Charana** 
+    A collaborative financial management application designed with a focus on structured data processing and an intuitive, minimalist user experience.
+
+### Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leshoraa&show_icons=false&theme=transparent&title_color=ffffff&text_color=9f9f9f&bg_color=00000000&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leshoraa&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&hide_border=true&bg_color=00000000" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
-<br>
-
-### 🤝 Let's Connect
-I'm always open to new projects, collaborations, and discussions!  
-📩 Reach me at: [leshoraa@gmail.com](mailto:leshoraa@gmail.com)
+### Contact & Connect
+[Email](mailto:leshoraa@gmail.com) &nbsp;&middot;&nbsp; [Instagram](https://instagram.com/ren.drra)
