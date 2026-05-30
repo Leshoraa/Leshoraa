@@ -19,22 +19,6 @@ I am a software developer from Indonesia, currently pursuing a degree in Informa
 
 ---
 
-### Featured Projects
-
-[![Ishoraa](https://img.shields.io/badge/Ishoraa-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leshoraa/ishoraa-imagecompressor)<br>
-Simplify your shopping: an offline Android app featuring AI product descriptions, dynamic lists, and a clean, minimalist design.
-
-[![Valueren](https://img.shields.io/badge/Valueren-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leshoraa/ValueRen)<br>
-A personal finance and shopping tracker equipped with built-in monthly budget limits to help manage and control expenses effectively.
-
-[![HyprPixel](https://img.shields.io/badge/HyprPixel-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leshoraa/Hyprpixel)<br>
-A camera application featuring real-time pixel filters that precisely replicate the retro aesthetic of a classic 0.03 MP camera.
-
-[![Reniquid](https://img.shields.io/badge/Reniquid-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leshoraa/ReniQuid)<br>
-A high-fidelity Zero-G fluid simulation engine for WebGL 2.0, developed with a strong focus on a minimalist glassmorphism UI.
-
----
-
 ### Tech Stack & Tools
 
 <div align="center">
