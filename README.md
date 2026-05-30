@@ -1,37 +1,37 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rendra+Muktia+Affan;Full+Stack+Developer;Android+Engineer;UI%2FUX+Minimalist+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rendra+Muktia+Affan;Full+Stack+Developer;Android+Engineer;Software+Architecture+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <b>Informatics Student at Universitas Amikom Yogyakarta | Software Engineer</b>
+  <b>Software Engineer | Informatics Student at Universitas Amikom Yogyakarta</b>
 </p>
 
 ---
 
-### ✦ About Me
+### About Me
 
-I am a passionate software developer from Indonesia, currently studying Informatics (S1) at Universitas Amikom Yogyakarta. I specialize in building efficient, robust, and aesthetically minimalist applications across various platforms, from mobile to web and system-level utilities. 
+I am a software developer from Indonesia, currently pursuing a degree in Informatics (S1) at Universitas Amikom Yogyakarta. I specialize in building efficient, robust, and aesthetically minimalist applications across various platforms, from mobile to web and system-level utilities. 
 
-💻 **Core Focus:** Full Stack Web Development, Android (Java & React Native), and C++.<br>
+💻**Core Focus:** Full Stack Web Development, Android (Java & React Native), and C++.<br>
 **Design Philosophy:** Minimalist UI/UX, monochrome aesthetics, and clean architecture.<br>
-🐧 **Environment:** Arch Linux power user.<br>
+🐧**Environment:** Arch Linux power user (Hyprland, Zen Kernel).<br>
 **Currently Exploring:** Local LLM integration (Ollama) and AI-driven development.
 
 ---
 
 ### Featured Projects
 
-**HyprFire**<br>
-An end-to-end encrypted terminal chat application built with Java and Firebase.
+**Ishoraa**<br>
+A digital marketplace platform designed for seamless gaming account and top-up transactions, built with a focus on secure transaction processing and a minimal user interface.
 
-**Hyprwork**<br>
-An AI-driven dashboard builder utilizing React and Vite to generate UI layouts from JSON configurations.
+**Valueren**<br>
+A performance-oriented software project developed with an emphasis on optimized data handling and a clean, user-centric architectural design.
 
 **HyprPixel**<br>
-A pixel art camera application leveraging React and the Canvas API for real-time color processing.
+A web-based pixel art camera application leveraging React and the HTML5 Canvas API to perform complex, real-time color processing and manipulation.
 
-**HyprVault**<br>
-A custom Java-based logic-gate encryption tool for secure data handling.
+**Reniquid**<br>
+A structured application system built utilizing clean architecture principles to deliver a reliable, scalable, and highly maintainable digital solution.
 
 ---
 
@@ -39,7 +39,7 @@ A custom Java-based logic-gate encryption tool for secure data handling.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,cpp,linux,arch,firebase,vite,mysql,python,php,figma,git&theme=dark" alt="Rendra's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,react,cpp,cs,ts,python,php,arduino,linux,arch,firebase,vite,mysql,figma,git&theme=dark" alt="Rendra's Tech Stack" />
   </a>
 </p>
 
@@ -48,8 +48,8 @@ A custom Java-based logic-gate encryption tool for secure data handling.
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leshoraa&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=00000000&hide_border=true" alt="Leshoraa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leshoraa&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&background=00000000&hide_border=true" alt="Leshoraa's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leshoraa&show_icons=false&theme=transparent&title_color=ffffff&text_color=9f9f9f&bg_color=00000000&hide_border=true" alt="Leshoraa's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leshoraa&theme=transparent&title_color=ffffff&text_color=9f9f9f&background=00000000&hide_border=true" alt="Leshoraa's GitHub Streak" width="48%" />
 </div>
 
 <br>
@@ -60,9 +60,9 @@ A custom Java-based logic-gate encryption tool for secure data handling.
 
 ---
 
-### Let's Connect!
+### Let's Connect
 
-I'm always open to discussing new projects, tech collaborations, or anything related to software architecture.
+I am always open to discussing new engineering projects, technical collaborations, or system architecture.
 
 <p align="center">
   <a href="mailto:leshoraa@gmail.com"><img src="https://img.shields.io/badge/Email-leshoraa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
