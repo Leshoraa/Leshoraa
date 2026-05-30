@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rendra+Muktia+Affan;Full+Stack+Developer;Android+Engineer;Software+Architecture+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rendra+Muktia+Affan;Full+Stack+Developer;Software+Architecture+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,26 +12,26 @@
 
 I am a software developer from Indonesia, currently pursuing a degree in Informatics (S1) at Universitas Amikom Yogyakarta. I specialize in building efficient, robust, and aesthetically minimalist applications across various platforms, from mobile to web and system-level utilities. 
 
-💻**Core Focus:** Full Stack Web Development, Android (Java & React Native), and C++.<br>
+**Core Focus:** Full Stack Web Development, Android (Java & React Native), and C++.<br>
 **Design Philosophy:** Minimalist UI/UX, monochrome aesthetics, and clean architecture.<br>
-🐧**Environment:** Arch Linux power user (Hyprland, Zen Kernel).<br>
+**Environment:** Arch Linux power user (Hyprland, Zen Kernel).<br>
 **Currently Exploring:** Local LLM integration (Ollama) and AI-driven development.
 
 ---
 
 ### Featured Projects
 
-**Ishoraa**<br>
-A digital marketplace platform designed for seamless gaming account and top-up transactions, built with a focus on secure transaction processing and a minimal user interface.
+[**Ishoraa**](https://github.com/Leshoraa/ishoraa-imagecompressor)<br>
+Simplify your shopping: an offline Android app featuring AI product descriptions, dynamic lists, and a clean, minimalist design.
 
-**Valueren**<br>
-A performance-oriented software project developed with an emphasis on optimized data handling and a clean, user-centric architectural design.
+[**Valueren**](https://github.com/Leshoraa/ValueRen)<br>
+A personal finance and shopping tracker equipped with built-in monthly budget limits to help manage and control expenses effectively.
 
-**HyprPixel**<br>
-A web-based pixel art camera application leveraging React and the HTML5 Canvas API to perform complex, real-time color processing and manipulation.
+[**HyprPixel**](https://github.com/Leshoraa/Hyprpixel)<br>
+A camera application featuring real-time pixel filters that precisely replicate the retro aesthetic of a classic 0.03 MP camera.
 
-**Reniquid**<br>
-A structured application system built utilizing clean architecture principles to deliver a reliable, scalable, and highly maintainable digital solution.
+[**Reniquid**](https://github.com/Leshoraa/ReniQuid)<br>
+A high-fidelity Zero-G fluid simulation engine for WebGL 2.0, developed with a strong focus on a minimalist glassmorphism UI.
 
 ---
 
