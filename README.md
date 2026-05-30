@@ -12,19 +12,26 @@
 
 I am a passionate software developer from Indonesia, currently studying Informatics (S1) at Universitas Amikom Yogyakarta. I specialize in building efficient, robust, and aesthetically minimalist applications across various platforms, from mobile to web and system-level utilities. 
 
- 💻 **Core Focus:** Full Stack Web Development, Android (Java & React Native), and C++.
- **Design Philosophy:** Minimalist UI/UX, monochrome aesthetics, and clean architecture.
- 🐧 **Environment:** Arch Linux power user.
- **Currently Exploring:** Local LLM integration (Ollama) and AI-driven development.
+💻 **Core Focus:** Full Stack Web Development, Android (Java & React Native), and C++.<br>
+**Design Philosophy:** Minimalist UI/UX, monochrome aesthetics, and clean architecture.<br>
+🐧 **Environment:** Arch Linux power user.<br>
+**Currently Exploring:** Local LLM integration (Ollama) and AI-driven development.
 
 ---
 
 ### Featured Projects
 
-**HyprFire:** An end-to-end encrypted terminal chat application built with Java and Firebase.
-**Hyprwork:** An AI-driven dashboard builder utilizing React and Vite to generate UI layouts from JSON configurations.
-**HyprPixel:** A pixel art camera application leveraging React and the Canvas API for real-time color processing.
-**HyprVault:** A custom Java-based logic-gate encryption tool for secure data handling.
+**HyprFire**<br>
+An end-to-end encrypted terminal chat application built with Java and Firebase.
+
+**Hyprwork**<br>
+An AI-driven dashboard builder utilizing React and Vite to generate UI layouts from JSON configurations.
+
+**HyprPixel**<br>
+A pixel art camera application leveraging React and the Canvas API for real-time color processing.
+
+**HyprVault**<br>
+A custom Java-based logic-gate encryption tool for secure data handling.
 
 ---
 
