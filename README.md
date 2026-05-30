@@ -31,7 +31,6 @@ I am a software developer from Indonesia, currently pursuing a degree in Informa
 
 ### GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leshoraa&show_icons=false&theme=transparent&title_color=ffffff&text_color=9f9f9f&bg_color=00000000&hide_border=true&v=2" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leshoraa&theme=transparent&title_color=ffffff&text_color=9f9f9f&background=00000000&hide_border=true" width="48%" />
 </div>
 
