@@ -12,7 +12,7 @@
 
 I am a software developer from Indonesia, currently pursuing a degree in Informatics (S1) at Universitas Amikom Yogyakarta. I specialize in building efficient, robust, and aesthetically minimalist applications across various platforms, from mobile to web and system-level utilities. 
 
-💻**Core Focus:** Full Stack Web Development, Android (Java & React Native), and C++.<br>
+**Core Focus:** Full Stack Web Development, Android (Java & React Native), and C++.<br>
 **Design Philosophy:** Minimalist UI/UX, monochrome aesthetics, and clean architecture.<br>
 🐧**Environment:** Arch Linux user since 2025 (Hyprland, Zen Kernel), macOS Hackintosh (Tahoe).<br>
 **Currently Exploring:** Local LLM integration (Ollama) and AI-driven development.
