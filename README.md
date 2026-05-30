@@ -39,7 +39,7 @@ A high-fidelity Zero-G fluid simulation engine for WebGL 2.0, developed with a s
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,cpp,cs,ts,python,php,arduino,linux,arch,firebase,vite,mysql,figma,git&theme=dark" alt="Rendra's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,react,cpp,cs,ts,python,php,arduino,linux,arch,apple,firebase,vite,mysql,figma,git&theme=dark" alt="Rendra's Tech Stack" />
   </a>
 </p>
 
