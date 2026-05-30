@@ -39,7 +39,7 @@ I am a software developer from Indonesia, currently pursuing a degree in Informa
 <br>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/132bnY1Q2sA07K/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlhYjJ2d3JkdTNkdnlzam10d2s1NGt1NGRzbjYxM21iMW4xeDBjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LoBwYBdIztLgIYujMC/giphy.gif)" alt="Pixel Art Animation" width="350" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlhYjJ2d3JkdTNkdnlzam10d2s1NGt1NGRzbjYxM21iMW4xeDBjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LoBwYBdIztLgIYujMC/giphy.gif" alt="Pixel Art Animation" width="350" />
 </div>
 
 ---
