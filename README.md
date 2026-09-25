@@ -16,6 +16,7 @@ A lot of what I build starts with a simple problem: something is annoying, missi
 
 I’m still learning along the way, but I enjoy figuring things out and making useful stuff.
 
+..............................................................
 
 ### Tech Stack & Tools
 
