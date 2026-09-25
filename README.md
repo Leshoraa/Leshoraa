@@ -10,9 +10,11 @@
 
 ### About Me
 
-Informatics student at Universitas Amikom Yogyakarta. I like building things with clean interfaces and modular backends, whether that is a mobile app, a web tool, or an IoT projects.
+I’m an Informatics student who likes making things, mostly because I need them myself.
 
-Most of my daily work happens inside an Arch Linux (Hyprland) setup and Hackintosh (Tahoe). Right now, I split my time between native mobile development, IoT experimentation, and local LLM integrations
+A lot of what I build starts with a simple problem: something is annoying, missing, or could just work better. From there, I usually end up turning the idea into an app, website, tool, or sometimes an IoT project.
+
+I’m still learning along the way, but I enjoy figuring things out and making useful stuff.
 
 ---
 
